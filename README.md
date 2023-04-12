@@ -1,7 +1,7 @@
 # Basic Authentication
 
 Using bcrypt and basic authentication for password protection
-## Intallation process
+## Installation process
 
 For this project we will be working off of several dependencies:
 
